@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @davidajetter-tw
+- 👀 I’m interested in emergent architecture, TDD, CICD, data engineering, and organizing teams for business impact.
+- 🌱 I’m currently learning kubernetes, React/JS/TS, and eventually Java.
+- 💞️ I’m looking to collaborate on Python or .NET projects
+- 📫 Reach me at david.jetter@thoughtworks.com
